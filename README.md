@@ -1,3 +1,3 @@
-# [Issue Tracker]
+# Issue Tracker
 
 
